@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/gourmet-delivery-platform-200602-200613/food_delivery_backend"
+}
